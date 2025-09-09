@@ -1,4 +1,4 @@
-# TOP-Project_Rock-Paper-Scrissors
+# TOP-Project_Rock-Paper-Scissors
 
 The Odin Project
 
